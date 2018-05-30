@@ -17,7 +17,9 @@
 		<Item Name="Plant.ctl" Type="VI" URL="../Plant.ctl"/>
 		<Item Name="PlantUpdate.vi" Type="VI" URL="../PlantUpdate.vi"/>
 		<Item Name="StateSpaceController.vi" Type="VI" URL="../StateSpaceController.vi"/>
+		<Item Name="StateSpaceObserver.vi" Type="VI" URL="../StateSpaceObserver.vi"/>
 		<Item Name="StateSpaceTest.vi" Type="VI" URL="../StateSpaceTest.vi"/>
+		<Item Name="TrapezoidalMotionProfile.vi" Type="VI" URL="../TrapezoidalMotionProfile.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
