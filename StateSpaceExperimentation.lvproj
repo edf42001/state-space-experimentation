@@ -14,6 +14,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Gains.ctl" Type="VI" URL="../Gains.ctl"/>
+		<Item Name="MotionProfileHandler.vi" Type="VI" URL="../MotionProfileHandler.vi"/>
 		<Item Name="Plant.ctl" Type="VI" URL="../Plant.ctl"/>
 		<Item Name="PlantUpdate.vi" Type="VI" URL="../PlantUpdate.vi"/>
 		<Item Name="StateSpaceController.vi" Type="VI" URL="../StateSpaceController.vi"/>
