@@ -252,7 +252,6 @@
 			</Item>
 			<Item Name="PlaceAckerman.vi" Type="VI" URL="../Helpers/PlaceAckerman.vi"/>
 			<Item Name="PlantUpdate.vi" Type="VI" URL="../PlantUpdate.vi"/>
-			<Item Name="StateSpaceObserver.vi" Type="VI" URL="../StateSpaceObserver.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
