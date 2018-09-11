@@ -32,5 +32,5 @@ R = np.diag(1.0 / np.square(R))
 
 P = la.solve_discrete_are(a=A, b=B, q=Q, r=R)
 
-F = np.linalg.inv(R + B.T * P * B) * B.T * P * A
+F = np.linalg.inv(R + B.T.dot(P).dot(B)).dot(B.T).dot(P).dot(A)
 print('\n'.join(','.join('%0.4f' %x for x in y) for y in F))
